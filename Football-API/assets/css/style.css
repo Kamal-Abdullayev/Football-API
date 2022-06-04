@@ -1,0 +1,16 @@
+.container{
+    margin-top: 5%;
+}
+
+.teams{
+    text-align: center;
+    /* margin: 3%; */
+    padding: 3%;
+    border-bottom: 1px dotted black;
+}
+img{
+    width: 6%;
+}
+span{
+    padding: 1%;
+}
